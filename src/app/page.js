@@ -1,3 +1,4 @@
+'use client';  // This tells Next.js that the following code runs on the client
 import { useEffect } from 'react';
 import Image from 'next/image';
 import { motion } from 'framer-motion';
